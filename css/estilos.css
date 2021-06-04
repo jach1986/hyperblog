@@ -1,10 +1,10 @@
 body
 {
-    color: #333;
+    color: rgb(59, 21, 230);
     text-align: left;
     font-family: 'cursive';
     text-align: center;
-    font-size: 36px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
 }
