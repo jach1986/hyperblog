@@ -6,12 +6,12 @@
 
 Este Github fue creado con la intención de aprender a utilizar git y github. :facepunch: :blush:
 
-###**Listado de directorios**
+### **Listado de directorios**
 
 - css
 - imagenes
 
-###**Listado de archivos**
+### **Listado de archivos**
 
 - estilos.css
 - cats.png
