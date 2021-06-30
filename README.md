@@ -21,5 +21,6 @@ Este Github fue creado con la intención de aprender a utilizar git y github. :f
 - historia.txt
 - Esta liena es nueva (probando cherry-pick)
 - Incluye ejemplos en win linux y mac
+- Disponible para toas las edaddes
 
 *Repositorio creado por **@Jach1986***
